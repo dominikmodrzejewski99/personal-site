@@ -42,7 +42,7 @@ export default function Navbar() {
           ))}
           <li>
             <a
-              href="/dominik_modrzejewska_cv.pdf"
+              href="/dominik_modrzejewski_cv.pdf"
               download
               className="inline-flex items-center rounded-full bg-purple px-5 py-2 text-sm font-semibold text-white transition-colors duration-200 hover:bg-purple-dark"
             >
@@ -83,7 +83,7 @@ export default function Navbar() {
             ))}
             <li>
               <a
-                href="/dominik_modrzejewska_cv.pdf"
+                href="/dominik_modrzejewski_cv.pdf"
                 download
                 className="mt-2 inline-flex items-center rounded-full bg-purple px-5 py-2 text-sm font-semibold text-white transition-colors duration-200 hover:bg-purple-dark"
               >
